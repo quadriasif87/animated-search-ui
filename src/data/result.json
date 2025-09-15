@@ -1,0 +1,37 @@
+[
+{
+"id": 1,
+"title": "Search Results Animation UI",
+"description": "Motion focused results list with subtle shadows and rounded cards.",
+"tags": ["animation", "ui", "search"],
+"score": "4.9"
+},
+{
+"id": 2,
+"title": "Card Grid Component",
+"description": "Responsive card grid for showing projects and thumbnails.",
+"tags": ["grid", "cards"],
+"score": "4.6"
+},
+{
+"id": 3,
+"title": "Compact Result Row",
+"description": "Small row-style result with avatar and meta info.",
+"tags": ["list", "compact"],
+"score": "4.3"
+},
+{
+"id": 4,
+"title": "Search Field Variants",
+"description": "Different states of the search input and clear actions.",
+"tags": ["input", "states"],
+"score": "4.0"
+},
+{
+"id": 5,
+"title": "Empty State Illustration",
+"description": "Calm empty state with a helpful suggestion and icon.",
+"tags": ["empty", "ux"],
+"score": "4.2"
+}
+]

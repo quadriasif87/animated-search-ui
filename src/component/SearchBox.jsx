@@ -1,4 +1,4 @@
-// SearchBox.js
+
 import React from 'react';
 import { FaSearch } from 'react-icons/fa';
 import { motion } from 'framer-motion';
